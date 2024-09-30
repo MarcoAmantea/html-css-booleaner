@@ -41,6 +41,9 @@ th{
 .background-line{
     background-color: aqua;
 }
+.height-line{
+    height: 60px;
+}
 .first-footer{
     width: 250px;
     height: 150px;
