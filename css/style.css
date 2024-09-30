@@ -38,3 +38,22 @@ th{
 .background-line{
     background-color: aqua;
 }
+.first-footer{
+    width: 250px;
+    height: 150px;
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
+.second-footer{
+    width: 250px;
+    height: 150px;
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
+.margin-footer{
+    margin-left: 10px;
+}
